@@ -28,6 +28,24 @@
     margin-top: auto;
 }
 #Title_bar_2{
-    
     float: right;
+    max-width: 70%;
+}
+.Book_an_Appointment{
+    overflow: hidden;
+    margin-top: 60px;
+    
+}
+.Blog1{
+    object-fit: cover;
+    margin-left: 0 ;
+}
+.Book_an_Appointment_Mobile_Pic{
+    object-fit: cover;
+}
+p{
+    font-family: "LXGW WenKai TC", cursive;
+    font-weight: 300;
+    font-style: normal;
+      
 }
